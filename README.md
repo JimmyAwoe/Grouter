@@ -10,7 +10,6 @@
   <a href="https://modelscope.cn/models/JimmyAwoe/Grouter-Official"><img src="https://img.shields.io/badge/ModelScope-Grouter-624AFF?style=flat" alt="ModelScope"></a>
 </p>
 <p align="center">
-  <sub>README:</sub>
   <a href="README.md">English</a>
   &nbsp;·&nbsp;
   <a href="README_zh.md">中文</a>
