@@ -2,11 +2,17 @@
 
 **通过预训练路由器的知识蒸馏加速MoE模型预训练**
 
-[arXiv](https://arxiv.org/abs/YOUR_ARXIV_ID)
-[License](LICENSE)
-[ModelScope](https://modelscope.cn/models/JimmyAwoe/Grouter-Official)
-
-[English](README.md) | [中文](README_zh.md)
+<p align="center">
+  <a href="https://arxiv.org/abs/2603.06626"><img src="https://img.shields.io/badge/arXiv-2603.06626-b31b1b?logo=arxiv&logoColor=white" alt="arXiv"></a>
+  &thinsp;
+  <a href="LICENSE"><img src="https://img.shields.io/badge/License-LICENSE-informational" alt="License"></a>
+  &thinsp;
+  <a href="https://modelscope.cn/models/JimmyAwoe/Grouter-Official"><img src="https://img.shields.io/badge/ModelScope-Grouter-624AFF?style=flat" alt="ModelScope"></a>
+  &thinsp;
+  <a href="README.md"><img src="https://img.shields.io/badge/README-English-555555?style=flat" alt="English README"></a>
+  &thinsp;
+  <a href="README_zh.md"><img src="https://img.shields.io/badge/README-%E4%B8%AD%E6%96%87-555555?style=flat" alt="中文 README"></a>
+</p>
 
 ---
 
