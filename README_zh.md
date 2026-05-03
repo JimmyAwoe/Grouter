@@ -8,10 +8,12 @@
   <a href="LICENSE"><img src="https://img.shields.io/badge/License-LICENSE-informational" alt="License"></a>
   &thinsp;
   <a href="https://modelscope.cn/models/JimmyAwoe/Grouter-Official"><img src="https://img.shields.io/badge/ModelScope-Grouter-624AFF?style=flat" alt="ModelScope"></a>
-  &thinsp;
-  <a href="README.md"><img src="https://img.shields.io/badge/README-English-555555?style=flat" alt="English README"></a>
-  &thinsp;
-  <a href="README_zh.md"><img src="https://img.shields.io/badge/README-%E4%B8%AD%E6%96%87-555555?style=flat" alt="中文 README"></a>
+</p>
+<p align="center">
+  <sub>README:</sub>
+  <a href="README.md">English</a>
+  &nbsp;·&nbsp;
+  <a href="README_zh.md">中文</a>
 </p>
 
 ---
