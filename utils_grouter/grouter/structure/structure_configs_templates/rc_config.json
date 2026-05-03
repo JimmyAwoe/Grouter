@@ -1,0 +1,10 @@
+{
+  "pad_token_id": 100001,
+  "vocab_size": 102400,
+  "hidden_size": 1024,
+  "middle_size": 1792,
+  "num_labels": 64,
+  "num_layer": 4,
+  "kernel_size": 3,
+  "no_pos_info": false
+}

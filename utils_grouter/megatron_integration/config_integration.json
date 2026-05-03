@@ -1,0 +1,38 @@
+{
+  "num_nodes": 8,
+  "num_experts": 128,
+  "output_prefix": "qwen3-c4",
+  "network_topology": {
+    "inter_node_bandwidth": 100.0,
+    "inter_node_latency": 5.0,
+    "intra_node_bandwidth": 1000.0
+  },
+  "training_config": {
+    "micro_batch_size": 1,
+    "global_batch_size": 16,
+    "sequence_length": 4096
+  },
+  "pca_dimensions": 45,
+  "first_hier_cluster_num": 100,
+  "cosine_similarity_threshold": 0.85,
+  "entropy_threshold": 5.9,
+  "expert_balance_weight": 0.3,
+  "similarity_weight": 0.7,
+  "deepep_mode": true,
+  "a2a_mode": false,
+  "export_analysis_report": false,
+  "vocab_size": 102400,
+  "eod_token_id": 100001,
+  "split_config": "99990,8,2",
+  "random_seed": 1234,
+
+  "train_iters": 100,
+  "global_batch_size": 64,
+  "full_validation": false,
+  "eval_interval": 50,
+  "eval_iters": 0,
+  "topk": 6,
+  "dummy_expert_id": [6, 19, 56, 41, 43, 7],
+  "tokenizer_type": "HuggingFaceTokenizer",
+  "tokenizer_model": "model_home/deepseek-v2-lite"
+}

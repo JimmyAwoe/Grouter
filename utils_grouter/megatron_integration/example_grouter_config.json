@@ -1,0 +1,9 @@
+{
+    "top_k": 6,
+    "num_experts": 64,
+    "padding_idx": 100001,
+    "scoring_func": "softmax",
+    "vocab_size": 102400,
+    "hidden_size": 2048,
+    "construct_type": "linear"
+}

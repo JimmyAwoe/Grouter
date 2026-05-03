@@ -1,0 +1,30 @@
+{
+  "num_nodes": 2,
+  "num_experts": 64,
+  "network_topology": {
+    "inter_node_bandwidth": 100.0,
+    "inter_node_latency": 5.0,
+    "intra_node_bandwidth": 1000.0
+  },
+  "training_config": {
+    "micro_batch_size": 1,
+    "global_batch_size": 16,
+    "sequence_length": 4096
+  },
+  "output_prefix": "dl-00000-test",
+  "vocab_size": 102400,
+  "eod_token_id": 100001,
+  "random_seed": 1234,
+
+  "train_iters": 400,
+  "global_batch_size": 64,
+  "full_validation": false,
+  "eval_interval": 100,
+  "eval_iters": 10,
+  "topk": 6,
+  "dummy_expert_id": [12, 7, 59, 30, 44, 61],
+  "tokenizer_type": "HuggingFaceTokenizer",
+  "tokenizer_model": "model_home/deepseek-v2-lite",
+
+  "export_analysis_report": true
+}

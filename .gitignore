@@ -1,0 +1,48 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# Checkpoints & Model Weights
+checkpoints/
+*.pth
+*.pt
+*.bin
+*.safetensors
+
+# Data
+dataset/c4_data/
+dataset/qwen3_processed/
+
+# Downloaded models
+model_home/qwen3-30b-a3b/
+model_home/qwen3-30b-a3b-converted/
+
+# Megatron-LM (cloned at setup)
+Megatron-LM/
+Megatron-Bridge/
+
+# Environment
+.env
+*.log
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Jupyter
+.ipynb_checkpoints/
+
+# wandb
+wandb/

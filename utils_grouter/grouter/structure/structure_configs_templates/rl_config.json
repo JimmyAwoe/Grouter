@@ -1,0 +1,12 @@
+{
+  "pad_token_id": 100001,
+  "vocab_size": 102400,
+  "hidden_size": 1024,
+  "middle_size": 4096,
+  "num_labels": 64,
+  "num_layer": 5,
+  "linear_bias": false,
+  "no_pos_info": false,
+  "norm_fun": "layernorm",
+  "act_fun": "relu"
+}

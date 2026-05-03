@@ -1,0 +1,6 @@
+{
+  "topk": 8,
+  "model_config_path": "utils_grouter/grouter/grouter_model/structure_config_256.json",
+  "structure_type": "mha",
+  "target_num_experts": "256"
+}
