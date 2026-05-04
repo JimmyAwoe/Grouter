@@ -1,4 +1,4 @@
-# Grouter: Global Router for Mixture-of-Experts Training
+# Grouter: Decoupled Router for Mixture-of-Experts Training
 
 **Accelerating MoE Pre-training via Knowledge Distillation from Pre-trained Routers**
 
