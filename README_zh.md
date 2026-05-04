@@ -297,11 +297,11 @@ Grouter/
 如果本工作对您有帮助，请引用我们的论文：
 
 ```bibtex
-@article{grouter2025,
-  title={Grouter: Global Router for Mixture-of-Experts Training},
-  author={},
-  journal={arXiv preprint},
-  year={2025}
+@article{xu2026grouter,
+  title={Grouter: Decoupling Routing from Representation for Accelerated MoE Training},
+  author={Xu, Yuqi and Hu, Rizhen and Liu, Zihan and Sun, Mou and Yuan, Kun},
+  journal={arXiv preprint arXiv:2603.06626},
+  year={2026}
 }
 ```
 

@@ -284,11 +284,11 @@ All models available at: [ModelScope/JimmyAwoe/Grouter-Official](https://modelsc
 If you find this work useful, please cite our paper:
 
 ```bibtex
-@article{grouter2025,
-  title={Grouter: Global Router for Mixture-of-Experts Training},
-  author={},
-  journal={arXiv preprint},
-  year={2025}
+@article{xu2026grouter,
+  title={Grouter: Decoupling Routing from Representation for Accelerated MoE Training},
+  author={Xu, Yuqi and Hu, Rizhen and Liu, Zihan and Sun, Mou and Yuan, Kun},
+  journal={arXiv preprint arXiv:2603.06626},
+  year={2026}
 }
 ```
 
