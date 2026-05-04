@@ -19,7 +19,7 @@
 
 ## Overview
 
-**Grouter** (Global Router) is a novel approach to accelerating Mixture-of-Experts (MoE) model pre-training by leveraging routing knowledge distilled from pre-trained MoE models. Instead of learning expert routing from scratch during training, Grouter transfers the routing policy of a mature *Source Model* to a new *Target Model*, enabling faster convergence and better load balancing — all with minimal computational overhead.
+**Grouter** (General Router) is a novel approach to accelerating Mixture-of-Experts (MoE) model pre-training by leveraging routing knowledge distilled from pre-trained MoE models. Instead of learning expert routing from scratch during training, Grouter transfers the routing policy of a mature *Source Model* to a new *Target Model*, enabling faster convergence and better load balancing — all with minimal computational overhead.
 
 ### Key Idea
 

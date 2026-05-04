@@ -19,7 +19,7 @@
 
 ## 概述
 
-**Grouter**（Global Router，全局路由器）是一种新颖的MoE模型预训练加速方法。其核心思想是：将已有预训练MoE模型（Source Model）的路由知识蒸馏为一个轻量级的独立路由网络，然后用该网络指导新MoE模型（Target Model）的专家选择，从而实现更快的收敛速度和更好的负载均衡。
+**Grouter**（General Router）是一种新颖的MoE模型预训练加速方法。其核心思想是：将已有预训练MoE模型（Source Model）的路由知识蒸馏为一个轻量级的独立路由网络，然后用该网络指导新MoE模型（Target Model）的专家选择，从而实现更快的收敛速度和更好的负载均衡。
 
 ### 核心思想
 
